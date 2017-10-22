@@ -1,0 +1,329 @@
+URL,Title,Selection,Folder
+https://docs.microsoft.com/de-de/azure/service-fabric/service-fabric-overview,Übersicht über Service Fabric in Azure,,Unread
+https://stackify.com/service-fabric-misconceptions/,Service Fabric - 6 Misconceptions We Need to Clear Up,,Unread
+https://msdn.microsoft.com/de-de/library/ee677312(v=azure.10).aspx,Einführung in AppFabric,,Unread
+https://martinfowler.com/eaaDev/EventSourcing.html,Event Sourcing,,Unread
+https://martinfowler.com/bliki/CQRS.html,bliki: CQRS,,Unread
+https://css-tricks.com/breaking-css-box-shadow-vs-drop-shadow/,Breaking down CSS Box Shadow vs. Drop Shadow | CSS-Tricks,,Unread
+https://entwickler.de/online/development/bootstrap4-beta2-vsts-notifications-visual-studio-ide-579817009.html,Bootstrap 4 Beta 2 & VSTS Notifications in Visual Studio IDE,,Unread
+https://www.heise.de/developer/artikel/Ueberfluessige-Leerzeichen-in-Microsoft-SQL-Server-abschneiden-3865043.html,Überflüssige Leerzeichen in Microsoft SQL Server abschneiden | heise Developer,,Unread
+https://www.heise.de/developer/meldung/Developer-Snapshots-Programmierer-News-in-ein-zwei-Saetzen-3864260.html,"Developer Snapshots: Programmierer-News in ein, zwei Sätzen | heise Developer",,Unread
+https://www.heise.de/developer/artikel/Features-von-uebermorgen-die-Payment-Request-API-3694012.html,Features von übermorgen: die Payment Request API,,Unread
+http://dockr.ly/2zAOO44,DockerCon Europe 2017 Highlights - Docker Blog,,Unread
+https://blogs.technet.microsoft.com/virtualization/2017/10/18/container-images-are-now-out-for-windows-server-version-1709/,Container Images are now out for Windows Server version 1709!,,docker
+https://blogs.msdn.microsoft.com/dotnet/2017/10/17/announcing-the-net-framework-4-7-1/,Announcing the .NET Framework 4.7.1,,microsoft
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/security/preventing-open-redirection-attacks,Preventing Open Redirection Attacks (C#),,microsoft
+https://blogs.technet.microsoft.com/virtualization/2017/09/26/dockers-ingress-routing-mesh-available-with-windows-server-version-1709/,Docker’s routing mesh available with Windows Server version 1709,,docker
+https://css-tricks.com/can-get-pretty-far-making-slider-just-html-css/,You can get pretty far in making a slider with just HTML and CSS | CSS-Tricks,,"js, ts, html, css, electron"
+https://www.heise.de/developer/artikel/Einfuehrung-in-React-Folge-1-Erste-Schritte-3839386.html,"Einführung in React, Folge 1: Erste Schritte",,"js, ts, html, css, electron"
+http://dockr.ly/2yZoNdy,Least Privilege Container Orchestration - Docker Blog,,docker
+https://www.heise.de/developer/artikel/Einfuehrung-in-React-Folge-2-Ein-tieferer-Einblick-3852368.html,"Einführung in React, Folge 2: Ein tieferer Einblick",,Unread
+https://www.heise.de/developer/meldung/Connect-Microsofts-Online-Konferenz-findet-vom-15-bis-17-November-statt-3851369.html,Connect();: Microsofts Online-Konferenz findet vom 15. bis 17. November statt | heise Developer,,Events
+https://entwickler.de/online/development/gute-softwarearchitekten-cloud-aera-579803966.html,Was gute Softwarearchitekten in der Cloud-Ära ausmacht - entwickler.de,,Unread
+https://ponyfoo.com/articles/template-literals-strictly-better-strings,Template Literals are Strictly Better Strings,,"js, ts, html, css, electron"
+https://mozilladevelopers.github.io/playground,CSS Grid Layout + Firefox = ❤️,,"js, ts, html, css, electron"
+http://dockr.ly/2yLY7h5,Introducing the Docker Global Professional Certification Program - Docker Blog,,Events
+https://blogs.msdn.microsoft.com/dotnet/2017/09/28/net-framework-4-7-1-runtime-and-compiler-features/,.NET Framework 4.7.1 Runtime and Compiler Features,,microsoft
+https://entwickler.de/online/windowsdeveloper/quantencomputer-basta-579814671.html,Der Quantencomputer: Vision und Wirklichkeit - BASTA! 2017 Keynote,,Unread
+https://entwickler.de/online/javascript/angular-5-579808435.html,"Auf dem Weg zu Angular 5 – Updates, Neuigkeiten & mehr",,"js, ts, html, css, electron"
+https://webkit.org/blog/7929/designing-websites-for-iphone-x/,Designing Websites for iPhone X,,"js, ts, html, css, electron"
+https://css-tricks.com/5-things-css-developers-wish-knew-started/,5 things CSS developers wish they knew before they started | CSS-Tricks,,"js, ts, html, css, electron"
+http://dockr.ly/2y4ntcZ,Yes to databases in containers - Microsoft SQL Server available on Docker Store - Docker Blog,,Unread
+http://dockr.ly/2y41dzI,Exciting new things for Docker with Windows Server 1709 - Docker Blog,,Unread
+https://entwickler.de/online/windowsdeveloper/microservices-modern-business-applications-579814416.html,Microservices und Modern Business Applications auf der BASTA! 2017,,Events
+http://scotch.io/tutorials/build-a-music-player-with-angular-2-electron-i-setup-basics-concepts,Build a Music Player with Angular 2+ & Electron I : Setup & Basics Concepts,,"js, ts, html, css, electron"
+https://www.heise.de/developer/meldung/GitLab-10-bringt-Auto-DevOps-und-eine-neue-Navigation-3839649.html,GitLab 10 bringt Auto DevOps und eine neue Navigation,,Unread
+http://dockr.ly/2xQQLvw,Get Familiar with Docker Enterprise Edition Client Bundles - Docker Blog,terprise Edition (EE) is the only Containers as a,Unread
+https://www.microsoft.com/net/learn/architecture,.NET Application Architecture Guidance,,Unread
+http://www.oop-konferenz.de/oop2018/programm/konferenzprogramm.html?utm_campaign=OOP_2018&utm_medium=email&utm_source=170914_Programm_online,Konferenzprogramm,,Events
+http://www.heise.de/developer/artikel/Infotag-Softwareentwickler-Update-2017-2018-fuer-NET-und-Webentwickler-3827610.html,Infotag: Softwareentwickler-Update 2017/2018 für .NET- und Webentwickler | heise Developer,,Events
+https://samsunginter.net/rube-goldberg-article/,A Rube Goldberg Machine,,Unread
+https://www.johner-institut.de/blog/regulatory-affairs/stilllegung-ausserbetriebnahme-von-medizinprodukten/,"Stilllegung, Außerbetriebnahme von Medizinprodukten",,iso-13485
+http://www.heise.de/developer/meldung/Microsoft-kuendigt-Windows-Compatibility-Pack-fuer-NET-Core-an-3835840.html,Microsoft kündigt Windows Compatibility Pack für .NET Core an | heise Developer,,Unread
+https://www.heise.de/developer/artikel/Serverless-Computing-Teil-1-Theorie-und-Praxis-3756877.html,"Serverless Computing, Teil 1: Theorie und Praxis",,Unread
+http://githubconstellation.com/munich/,Constellation | Munich,,Events
+https://github.com/blog/2431-the-data-science-behind-topic-suggestions,The data science behind topic suggestions,,Unread
+https://github.com/blog/2432-git-lfs-2-3-0-released,Git LFS 2.3.0 released,,Unread
+https://blogs.msdn.microsoft.com/webdev/2017/09/14/announcing-signalr-for-asp-net-core-2-0/,Announcing SignalR for ASP.NET Core 2.0,,microsoft
+https://aws.amazon.com/blogs/aws/prime-day-2017-powered-by-aws/,Prime Day 2017 – Powered by AWS | Amazon Web Services,,Unread
+http://www.zeit.de/digital/internet/2017-09/lobbyismus-google-usa-einfluss-politik,Lobbyismus: Der Google-Staat,,Unread
+https://azure.microsoft.com/en-us/blog/microsoft-tech-summit-is-back-register-for-a-free-event-near-you/,Microsoft Tech Summit is back – register for a free event near you!,,Events
+https://blogs.msdn.microsoft.com/dotnet/2017/09/13/net-framework-4-7-1-asp-net-and-configuration-features/,.NET Framework 4.7.1 ASP.NET and Configuration features,,Unread
+https://www.heise.de/developer/meldung/GitHub-Enterprise-erleichtert-Strukturierung-der-Zustaendigkeiten-3831133.html,GitHub Enterprise erleichtert Strukturierung der Zuständigkeiten,,Unread
+https://www.bugsnag.com/platforms/javascript/?utm_campaign=javascript&utm_content=free-trial&utm_medium=cpc&utm_source=carbon&utm_term=css-tricks-20170907,Detect JavaScript errors on your website,,"js, ts, html, css, electron"
+https://css-tricks.com/html-templates-via-javascript-template-literals/,HTML Templates via JavaScript Template Literals | CSS-Tricks,,"js, ts, html, css, electron"
+https://entwickler.de/online/iot/echo-show-skill-entwicklung-579812238.html,Echo Show – Entwicklung von Skills für Multiple Interfaces,,Unread
+https://basta.net/blog/ueberblick-zum-sql-server-2017/,Die Neuerungen von SQL Server 2017 im Überblick - entwickler.de,,microsoft
+https://electron.atom.io/blog/2017/06/01/typescript,Announcing TypeScript support in Electron,,"js, ts, html, css, electron"
+http://www.dotnetcurry.com/dotnet/1308/dotnet-core-future-of-dotnet-framework,.NET Core: .NET of Future or Future of .NET? | DotNetCurry,,microsoft
+https://aws.amazon.com/blogs/aws/new-network-load-balancer-effortless-scaling-to-millions-of-requests-per-second/,New Network Load Balancer – Effortless Scaling to Millions of Requests per Second | Amazon Web Services,,Unread
+https://angular-days.de/blog/interview/das-web-hat-gewonnen/,"Cross-Plattform: Das Web hat ""gewonnen""",,"js, ts, html, css, electron"
+https://www.heise.de/developer/artikel/REST-APIs-mit-Node-js-und-Swagger-3820025.html,REST-APIs mit Node.js und Swagger,,Unread
+https://blog.docker.com/2017/08/whats-new-docker-enterprise-edition-webinar-recap/,What’s New in Docker Enterprise Edition Webinar Recap - Docker Blog,,docker
+http://www.dotnetpro.de/core/miniserver-core-so-schnell-es-geht.-1281861.html,"""Miniserver mit Core sind so schnell, wie es nur geht.""",,Unread
+https://blog.docker.com/2017/08/video-series-modernizing-net-apps-it-pros/,Video Series: Modernizing .NET Apps for IT Pros - Docker Blog,,docker
+https://stefanscherer.github.io/get-started-with-docker-on-windows-using-chocolatey/,Get started with Docker on Windows using Chocolatey,,docker
+https://stefanscherer.github.io/build-your-local-windows-docker-swarm/,Run a local Windows Docker Swarm,,docker
+https://stefanscherer.github.io/docker-swarm-mode-windows10/,Getting started with Docker Swarm-mode on Windows 10,,docker
+https://stefanscherer.github.io/use-multi-stage-builds-for-smaller-windows-images/,Use multi-stage builds for smaller Windows images,,docker
+https://stefanscherer.github.io/exploring-new-nanoserver-insider-images/,Exploring new NanoServer Insider images,,docker
+https://github.com/docker/for-win/issues/185,"Put ""C:\ProgramData\Docker"" on a different drive? Configuration option? · Issue #185 · docker/for-win",,Unread
+https://dotnetcodr.com/2017/08/22/getting-notified-by-a-windows-service-status-change-in-c-net-3/,Getting notified by a Windows Service status change in C# .NET,,Unread
+https://entwickler.de/online/datenbanken/indexvarianten-579767839.html,SQL Server Indizes – Indexvarianten: Der Mix macht's,,Unread
+https://blog.docker.com/2017/08/what-is-containerd-runtime/,What is containerd ? - Docker Blog,,docker
+https://www.johner-institut.de/blog/iec-62304-medizinische-software/software-freigabe/,Software-Freigabe: ein „beliebtes“ Missverständnis,,Unread
+https://martinfowler.com/articles/architect-elevator.html,The Architect Elevator — Visiting the upper floors,,Unread
+http://it-and-more.blogspot.com/2016/10/bauen-versus-basteln.html,Bauen versus Basteln,,Unread
+https://entwickler.de/online/datenbanken/spezielle-indexformen-241163.html,SQL Server Indizes – Spezielle Indexformen,,Unread
+https://jaxenter.de/docker-ee-17-06-60850,Docker EE 17.06: Multi-Architektur-Orchestrierung & Sicherheitsupdates,,Unread
+https://www.heise.de/developer/meldung/NET-Core-2-0-und-die-zugehoerige-Produktfamilie-sind-fertig-3801615.html,.NET Core 2.0 und die zugehörige Produktfamilie sind fertig,,Unread
+https://blogs.msdn.microsoft.com/dotnet/2017/07/26/the-new-net-application-architecture-guidance/,.NET Application Architecture Guidance,,Unread
+https://blogs.msdn.microsoft.com/dotnet/2017/08/09/web-apps-aspnetcore-architecture-guidance/,Web Applications with ASP.NET Core Architecture and Patterns guidance,,Unread
+https://blogs.msdn.microsoft.com/dotnet/2017/08/02/microservices-and-docker-containers-architecture-patterns-and-development-guidance/,"Microservices and Docker containers: Architecture, Patterns and Development guidance",,Unread
+https://aws.amazon.com/de/blogs/developer/category/net/,.NET | AWS Developer Blog,,Unread
+https://www.heise.de/developer/meldung/NET-Standard-2-0-ist-fertig-und-NET-Core-2-0-auf-der-Zielgeraden-3796910.html,.NET Standard 2.0 ist fertig und .NET Core 2.0 auf der Zielgeraden,,Unread
+http://www.heise.de/security/meldung/Sichere-Passwoerter-Viele-der-herkoemmlichen-Sicherheitsregeln-bringen-nichts-3797935.html,Sichere Passwörter: Viele der herkömmlichen Sicherheitsregeln bringen nichts,,Unread
+https://modernizr.com/,Modernizr: the feature detection library for HTML5/CSS3,,"js, ts, html, css, electron"
+https://caniuse.com/,"Can I use... Support tables for HTML5, CSS3, etc",,"js, ts, html, css, electron"
+https://platform.html5.org/,The Web Platform: Browser technologies,,"js, ts, html, css, electron"
+https://html5boilerplate.com/,HTML5 Boilerplate: The web’s most popular front-end template,,"js, ts, html, css, electron"
+https://www.grc.com/x/ne.dll?bh0bkyd2=,GRC | ShieldsUP! — Internet Vulnerability Profiling,,tools
+http://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/,Ubuntu 16.04: How to install OpenCV - PyImageSearch,,z-wave
+https://aspnetboilerplate.com/Pages/Documents,ASP.NET Boilerplate - Web Application Framework | ASP.NET Boilerplate Docum,,microsoft
+https://jsperf.com/,jsPerf: JavaScript performance playground,,"js, ts, html, css, electron"
+https://stackoverflow.com/questions/4809430/visual-studio-log-file,logging - Visual Studio log file - Stack Overflow,,microsoft
+https://human.biodigital.com/signin.html,BioDigital Human: Anatomy and Health Conditions in Interactive 3D,,onkologie
+https://www.siio.de/kleine-lua-scripte-teil-7-online-status-abpruefen/,Ping Pong - Geräte im Netzwerk überwachen,,z-wave
+https://ayende.com/blog/3102/rhino-etl-2-0,Rhino ETL 2.0 - Ayende @ Rahien,,microsoft
+https://docs.microsoft.com/en-us/dotnet/framework/wcf/extending/how-to-create-a-custom-security-token-authenticator,How to: Create a Custom Security Token Authenticator,,microsoft
+https://www.siio.de/siri-fibaro/,Fibaro & HomeKit - Smart Home Sprachsteuerung mit Siri ganz einfach! | Smar,,z-wave
+https://msdn.microsoft.com/en-us/library/system.identitymodel.services.wsfederationauthenticationmodule.createsigninrequest(v=vs.110).aspx,"WSFederationAuthenticationModule.CreateSignInRequest Method (String, String",,microsoft
+https://www.atlassian.com/git/tutorials/comparing-workflows,Git Workflows and Tutorials | Atlassian Git Tutorial,,git
+https://www.microsoft.com/de-de/newsletter/default.aspx,Microsoft - Newsletter,,microsoft
+https://www.onkopedia.com/de/onkopedia/guidelines,Leitlinien — Onkopedia,,onkologie
+https://github.com/IdentityModel/Thinktecture.IdentityModel,GitHub - IdentityModel/Thinktecture.IdentityModel: [deprecated] Thinktectur,,microsoft
+https://msdn.microsoft.com/en-us/library/ee259687.aspx,Set up Team Foundation Build Service,,microsoft
+https://www.visualstudio.com/en-us/docs/build/concepts/agents/agents,Build and Release Agents,,microsoft
+http://wiki.c2.com/,Welcome Visitors,,software architektur
+https://blog.tonysneed.com/2012/05/28/secure-wcf-rest-services-with-a-custom-usernamepasswordvalidator/,Secure Self-Hosted WCF REST Services with a Custom UserNamePasswordValidato,,microsoft
+http://www.filehelpers.net/,FileHelpers Library,,microsoft
+https://stackoverflow.com/questions/2336100/rhino-etl-opinions-vs-kettle-and-ssis,Rhino ETL opinions vs Kettle and SSIS - Stack Overflow,,microsoft
+https://docs.microsoft.com/en-us/virtualization/windowscontainers/,Windows Containers Documentation | Microsoft Docs,,docker
+http://www.popp.eu/de/produkte/aktoren/tueroeffner-steuerung/,Elektrische Türöffner-Steuerung (012501) | POPP,,z-wave
+http://sedodream.com/2010/05/01/WebDeploymentToolMSDeployBuildPackageIncludingExtraFilesOrExcludingSpecificFiles.aspx,"Sayed Ibrahim Hashimi - MSBuild, Web Deploy (MSDeploy), ASP.NET - Web Deplo",,microsoft
+https://blogs.msdn.microsoft.com/james_osbornes_blog/2010/12/10/selfhosting-a-wcf-service-over-https/,Selfhosting a WCF service over Https – James Osborne's Blog,,microsoft
+https://weblogs.asp.net/gurusarkar/redirect-unauthorized-users-to-access-denied-page-instead-of-login-page,Guru Sarkar's Blog - Redirect unauthorized users to Custom Access Denied pa,,microsoft
+https://brockallen.com/2013/10/22/announcing-thinktecture-embeddedsts-a-simple-local-sts-for-asp-net-applications/,"Announcing Thinktecture EmbeddedSts — a simple, local STS for ASP.NET appli",,microsoft
+https://msdn.microsoft.com/en-us/library/dd468057(v=vs.110).aspx,Requirements for Creating POCO Proxies,,microsoft
+https://docs.com/taylorb/8408/dockercon-2016-dockerizing-windows-server,DockerCon 2016 - Dockerizing Windows Server Applications - Docs.com,,docker
+https://msdn.microsoft.com/en-us/library/jj679962(v=vs.113).aspx,Entity Framework Code First Conventions,,microsoft
+https://www.johner-institut.de/blog/regulatory-affairs/mdr-regel-10a/,MDR Regel 11 / Rule 11: Der Klassifizierungs-Albtraum,,iso-13485
+https://blogs.msdn.microsoft.com,"MSDN Blogs – Get the latest information, insights, announcements, and news",,microsoft
+https://msdn.microsoft.com/en-us/library/jj591617(v=vs.113).aspx,Entity Framework Fluent API - Configuring and Mapping Properties and Types,,microsoft
+http://37.60.250.76/~lcube750/hello-world-rhino-etl/,Hello World Rhino ETL | LCube,,microsoft
+https://stackoverflow.com/questions/7251477/what-are-the-differences-between-double-dot-and-triple-dot-in-git-dif/7256391,"What are the differences between double-dot "".."" and triple-dot ""..."" in Gi",,git
+http://resizemybrowser.com/,resizeMyBrowser,,"js, ts, html, css, electron"
+https://msdn.microsoft.com/en-us/library/dn582034(v=vs.113).aspx,Entity Framework Improving Startup Performance with NGen (EF6 Onwards),,microsoft
+https://myignite.microsoft.com,MyIgnite - On Demand Detail,,docker
+http://www.baumkunde.de/,"Baumbestimmung leicht gemacht, Bäume bestimmen, Baum Bestimmung",,Archive
+https://web.archive.org/web/20140601110310/http://sparkviewengine.com/documentation,Spark Documentation | Spark View Engine,,microsoft
+http://www.entityframeworktutorial.net/code-first/configure-one-to-one-relationship-in-code-first.aspx,Configure One-to-One relationship in Code First Entity Framework,,microsoft
+http://blog.sixeyed.comhttp://blog.sixeyed.com/relay-iis-log-entries-to-read-them-in-docker/,Relay IIS Log Entries to the Console and Read Them in Docker | Elton Stonem,,docker
+https://www.red-gate.com/simple-talk/dotnet/asp-net/handling-errors-effectively-in-asp-net-mvc/,Handling Errors Effectively in ASP.NET MVC - Simple Talk,,microsoft
+http://groups.eortc.be/qol/eortc-qlq-c30,Questionnaires | EORTC,,onkologie
+https://blogs.msdn.microsoft.com/hongmeig/2010/03/05/timeouts-in-wcf-and-their-default-values/,Timeouts in WCF and their default values,,microsoft
+http://codebetter.com/petervanooijen/2010/03/22/a-simple-wcf-service-with-username-password-authentication-the-things-they-don-t-tell-you/,A simple WCF service with username password authentication: the things they,,microsoft
+https://www.onlinesicherheit.gv.at/,Onlinesicherheit,,Archive
+http://cdatools.org/,MDHT CDA Tools,,onkologie
+https://stackoverflow.com/questions/tagged/rhino-etl?sort=votes&pageSize=15,Highest Voted 'rhino-etl' Questions - Stack Overflow,,microsoft
+https://blogs.msdn.microsoft.com/rodneyviana/2011/03/22/named-pipes-in-wcf-are-named-but-not-by-you-and-how-to-find-the-actual-windows-object-name/,Named Pipes in WCF are named but not by you (and how to find the actual win,,microsoft
+http://recordersheetmusic.org/we-wish-you-a-merry-christmas-de/,We wish you a Merry Christmas - Blockflötennoten,,Blockflöte
+http://oncologypro.esmo.org/Oncology-in-Practice/Practice-Tools/Performance-Scales,Performance Scales: Karnofsky & ECOG Scores Practice tools | OncologyPRO,,onkologie
+http://www.madeiradata.com/load-data-excel-ssis-32-bit-vs-64-bit/,How to Load Data from Excel in SSIS - 32-bit vs. 64-bit,,microsoft
+https://msdn.microsoft.com/en-us/library/ff423674.aspx,A Guide to Claims-Based Identity and Access Control (2nd Edition),,microsoft
+https://www.codeproject.com/Articles/34556/Write-ETL-jobs-in-pure-C,Write ETL jobs in pure C# - CodeProject,,microsoft
+https://msdn.microsoft.com/en-us/library/hh949853(v=vs.113).aspx,"Performance Considerations for EF 4, 5, and 6",,microsoft
+https://www.fibaro.com/en/,FIBARO | Home Automation - Home Intelligence - Smart Home,,z-wave
+https://workshopernaehrung.de/,Workshop Ernährung - Gesunde Ernährung verstehen und umsetzen!,,gesundheit
+http://oncologypro.esmo.org/Oncology-in-Practice/Practice-Tools/Performance-Scales,Performance Scales: Karnofsky & ECOG Scores Practice tools | OncologyPRO,,onkologie
+https://git-scm.com/book/de/v1/Los-geht%E2%80%99s,Git - Los geht’s,,git
+https://docs.microsoft.com/en-us/dotnet/framework/security/,Windows Identity Foundation | Microsoft Docs,,microsoft
+http://notendatenbank.net/detail.php?artnr=9487004&kat=2,Notendatenbank.net/Detail/My Secret Lovesong (9487004),,Blockflöte
+https://www.philipphauer.de/study/se/design-pattern.php,Design Pattern Katalog,,software architektur
+https://search.loinc.org/userLogin.zul;jsessionid=8F56DF00914EE23BAED4A31E53766BBB,search.loinc.org,,onkologie
+http://recordersheetmusic.org/ding-dong-merrily-on-high-de/,Ding dong! Merrily on High - Blockflötennoten,,Blockflöte
+http://www.fibarouk.co.uk/support/lua/brief-introduction-lua/,Fibaro UK | A brief introduction to Lua - Fibaro UK,,z-wave
+https://www.codeproject.com/Articles/1080517/Aspect-Oriented-Programming-using-Interceptors-wit,Aspect Oriented Programming using Interceptors within Castle Windsor and AB,,microsoft
+http://recordersheetmusic.org/stille-nacht/,Stille Nacht - Blockflötennoten,,Blockflöte
+http://www.laborlexikon.de/Lexikon/Infoframe/k/Kreatinin_Serum.htm,Laborlexikon: Kreatinin im Serum >>Facharztwissen für alle!<<,,onkologie
+https://github.com/khoanguyen/WcfEx/wiki/Basic-Authentication-for-REST-service---WebHttpBinding,Basic Authentication for REST service WebHttpBinding · khoanguyen/WcfEx Wik,,microsoft
+https://www.webpagefx.com/web-design/hex-to-rgb/,HEX to RGB Converter,,tools
+http://razberry.z-wave.me/,Home,,z-wave
+https://www.krebshilfe.net/,Österreichische Krebshilfe,,onkologie
+http://www.dofactory.com/net/design-patterns,.NET Design Patterns in C# and VB.NET - Gang of Four (GOF) - doFactory.com,,microsoft
+http://www.developerhandbook.com/entity-framework/in-the-spotlight-demystifying-iqueryable-entity-framework-6/,In the spotlight: Demystifying IQueryable (Entity Framework 6) • DeveloperH,,microsoft
+https://msdn.microsoft.com/en-us/library/jj592907(v=vs.113).aspx,Entity Framework Raw SQL Queries,,world-direct
+https://channel9.msdn.com/Blogs/TechTalk/Episode-65-ALM-Series-Build-VNext-aka-Build-in-TFS-2015-und-Visual-Studio-Team-Services-2015,Episode 65 - ALM Series: Build VNext aka Build in TFS 2015 und Visual Studi,,microsoft
+http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_video/py_bg_subtraction/py_bg_subtraction.html,Background Subtraction — OpenCV-Python Tutorials 1 documentation,,z-wave
+https://blogs.msdn.microsoft.com/powershell/2008/09/02/speeding-up-powershell-startup-updating-update-gac-ps1/,Speeding Up PowerShell Startup – Updating Update-Gac.ps1 | PowerShell Team,,microsoft
+https://www.gesundheit.gv.at/labor/laborwerte/niere-harn/kreatinin,Kreatinin - KREA - Creatinin | Gesundheitsportal,,onkologie
+http://recordersheetmusic.org/ya-viene-la-vieja-de/,Ya viene la vieja - Blockflötennoten,,Blockflöte
+https://stackoverflow.com/questions/23896901/ssis-excel-connection-manager-failed-to-connect-to-the-source,sql server - SSIS Excel Connection Manager failed to Connect to the Source,,microsoft
+https://dotnetcodr.com/2013/02/21/introduction-to-claims-based-security-in-net4-5-with-c-part-4-authorisation-with-claims/,Introduction to Claims based security in .NET4.5 with C# Part 4: authorisat,,microsoft
+https://hibernatingrhinos.com/oss/rhino-etl,Hibernating Rhinos,,microsoft
+https://compendium.ch/home/de?nocookie=true,compendium.ch,,onkologie
+http://recordersheetmusic.org/tu-scendi-dalle-stelle-italienische-weihnachtslied/,Tu scendi dalle stelle (Italienische Weihnachtslied) - Blockflötennoten,,Blockflöte
+https://www.johner-institut.de/blog/iec-62304-medizinische-software/detailliertes-design-iec-62304-kapitel-5-4/,Detailliertes Design IEC 62304 konform dokumentieren,,iso-13485
+http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_video/py_bg_subtraction/py_bg_subtraction.html?highlight=createbackgroundsubtractormog,Background Subtraction — OpenCV 3.0.0-dev documentation,,z-wave
+https://github.com/hibernating-rhinos/rhino-etl,GitHub - hibernating-rhinos/rhino-etl: Developer friendly ETL Library for .,,microsoft
+https://msdn.microsoft.com/en-us/library/jj618307(v=vs.113).aspx,Entity Framework migrate.exe,,microsoft
+https://msdn.microsoft.com/en-us/library/jj591620(v=vs.113).aspx,Entity Framework Fluent API - Relationships,,microsoft
+https://jsfiddle.net/,Create a new fiddle - JSFiddle,,"js, ts, html, css, electron"
+http://www.arrowsheds.com/,"Storage Sheds, Steel Sheds, Garden Sheds, Storage Buildings",,Archive
+http://recordersheetmusic.org/rin-rin-hacia-belen-de/,Rin rin (Hacia Belén) - Blockflötennoten,,Blockflöte
+https://docs.microsoft.com/en-us/dotnet/framework/configure-apps/file-schema/wcf/security-of-webhttpbinding,of | Microsoft Docs,,microsoft
+https://stackoverflow.com/questions/12905693/tfs-2012-build-access-to-path-denied/23069603,"TFS 2012 Build ""Access to Path Denied"" - Stack Overflow",,microsoft
+http://www.allenconway.net/2012/05/creating-wcf-restful-service-and-secure.html,Allen Conway's Blog: Creating a WCF RESTful Service And Secure It Using HTT,,microsoft
+http://nvie.com/posts/a-successful-git-branching-model/,A successful Git branching model » nvie.com,,git
+https://stackoverflow.com/questions/12606948/what-are-independent-associations-and-foreign-key-associations,c# - What are Independent Associations and Foreign Key Associations? - Stac,,world-direct
+https://cdnjs.com/,cdnjs.com - The best FOSS CDN for web related libraries to speed up your we,,"js, ts, html, css, electron"
+http://recordersheetmusic.org/gatatumba-de/,Gatatumba - Blockflötennoten,,Blockflöte
+https://www.codeproject.com/Articles/437733/Demystify-http-sys-with-HttpSysManager,Demystify http.sys with HttpSysManager - CodeProject,,microsoft
+http://www.technaxx.de,Technaxx Hersteller Grosshandel Reseller Wiederverkäufer,,z-wave
+https://sso.sozialversicherung.at/IBSYS_WEB_SSO/login?LO=1&TARGET=https%3A%2F%2Fwww.sozialversicherung.at%2Fportal27%2Flogin%3FinitialURI%3D%252Fportal27%252Fmeinesvtgkkportal%252Fcontent%252FcontentWindow%253Fviewmode%253Dcontent%2526contentid%253D10007.740032,Willkommen am Portal der österreichischen Sozialversicherung,,Unread
+https://www.whocc.no/atc_ddd_index/,WHOCC - ATC/DDD Index,,onkologie
+https://aspnetboilerplate.com/,ASP.NET Boilerplate - Web Application Framework,,microsoft
+https://github.com/IdentityModel/Thinktecture.IdentityModel/wiki/EmbeddedSts,EmbeddedSts · IdentityModel/Thinktecture.IdentityModel Wiki · GitHub,,microsoft
+http://www.motobit.com/util/base64-decoder-encoder.asp,Base64 Online - base64 decode and encode,,tools
+https://www.rauch.io/2015/06/25/all-wcf-timeouts-explained/,All WCF timeouts explained ⋆ Dominik's Development Corner,,microsoft
+https://live.sysinternals.com/,live.sysinternals.com - /,,tools
+http://referencesource.microsoft.com/,Reference Source,,microsoft
+http://dotnetmentors.com/how-to-enable-wcf-tracing-and-wcf-message-loging.aspx,How to enable wcf tracing and wcf message loging : www.dotnetmentors.com,,microsoft
+http://manuals.fibaro.com/,FIBARO Manuals,,z-wave
+http://regexhero.net/tester/,The .NET Regex Tester | Regex Hero,,tools
+https://www.johner-institut.de/blog/regulatory-affairs/audit-trail/,Audit-Trail: Was Sie als Medizinproduktehersteller wissen sollten,,iso-13485
+https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-dotnet-entity-framework-row-level-security,Tutorial: Web app with a multi-tenant database using Entity Framework and R,,microsoft
+http://www.whatsmybrowser.org/,What browser am I using?,,"js, ts, html, css, electron"
+http://wpmanager.buffet-group.com/melton/de/,Melton Meinl Weston |,,Fülgelhorn
+https://www.visualstudio.com/en-us/docs/build/steps/utility/copy-and-publish-build-artifacts,Copy and publish build artifacts,,microsoft
+http://www.denksport.de/denksport/raetsel.asp?nr=003&show=Aufgabe,DENKSPORT.DE | Klassische Rätsel | Matherätsel,,Unread
+https://www.lua.org/pil/contents.html,Programming in Lua (first edition),,z-wave
+https://diagnosia.com/,Diagnosia ® - Software für medizinische Fachgruppen,,onkologie
+https://www.johner-institut.de/blog/iec-62304-medizinische-software/mock-objekt/,Mock-Objekt beim Testen medizinischer Software,,iso-13485
+https://github.com/AutoMapper/AutoMapper/wiki/Queryable-Extensions,Queryable Extensions · AutoMapper/AutoMapper Wiki · GitHub,,microsoft
+http://com.hemiola.com/2009/11/23/memory-leaks-in-ie8/,Memory Leaks in IE8 and IE9 (Fixed in IE10) – Baffling Browsers,,"js, ts, html, css, electron"
+https://www.lua.org/demo.html,Lua: demo,,z-wave
+http://paulstovell.com/blog/useful-wix-snippets,Useful WIX Snippets - Paul Stovell,,tools
+https://gilesey.wordpress.com/2013/04/21/allowing-remote-access-to-your-iis-express-service/,Allowing remote access to your IIS Express service | @GilesDMiddleton,,microsoft
+http://blockfloetennoten.com/category/weihnachtslieder/page/2/,Weihnachtslieder Archives - Seite 2 von 2 - Blockflötennoten,,Blockflöte
+https://github.com/brogersyh/Dockerfiles-for-windows,"GitHub - brogersyh/Dockerfiles-for-windows: Dockerfiles for SQL Server, ASP",,docker
+https://docs.microsoft.com/en-us/aspnet/web-api/overview/security/basic-authentication,Basic Authentication in ASP.NET Web API | Microsoft Docs,,microsoft
+https://rominirani.com/docker-tutorial-series-part-8-linking-containers-69a4e5bf50fb,Docker Tutorial Series : Part 8 : Linking Containers,,docker
+http://www.fibarouk.co.uk/support/lua/actions-use-fibarocall-api/,Fibaro UK | Actions for use with fibaro:call and the API - Fibaro UK,,z-wave
+http://cda-validation.nist.gov/cda-validation/validation.html,CDA Guideline Validation,,onkologie
+http://recordersheetmusic.org/jingle-bells-de/,Jingle Bells - Blockflötennoten,,Blockflöte
+https://www.unitjuggler.com/index-de.html,Dezimalzahl in dualkodierte Dezimalziffer umrechnen - numerische Systeme on,,tools
+http://www.academia.edu/1727591/Oral_Anatomy_of_a_Trumpet_Player_Prediction_of_Physical_Talent,Oral Anatomy of a Trumpet Player: Prediction of Physical Talent | Zeynep Ci,,Fülgelhorn
+https://www.johner-institut.de/blog/regulatory-affairs/computer-system-validation-csv/,Computer System Validation CSV,,iso-13485
+https://stackoverflow.com/questions/3156488/localize-default-model-validation-in-mvc-2,asp.net - localize default model validation in mvc 2 - Stack Overflow,,microsoft
+http://www.klassikradio.de/,Home - Klassik Radio,,Unread
+http://recordersheetmusic.org/la-marimorena-de/,La marimorena - Blockflötennoten,,Blockflöte
+https://www.johner-institut.de/blog/tag/software-qualitatssicherung/,Software-Qualitätssicherung bei Medizinprodukten,,iso-13485
+https://ardalis.com/resolving-dependencies-in-asp-net-mvc-5-with-structuremap,Resolving Dependencies in ASP.NET MVC 5 with StructureMap | ardalis,,microsoft
+http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html,Link Shell Extension,,tools
+https://www.johner-institut.de/blog/iec-62304-medizinische-software/code-coverage/,Code Coverage: Vollständigkeit von Software-Tests bestimmen,,iso-13485
+https://stefanscherer.github.io/how-to-run-encrypted-windows-websites-with-docker-and-traefik/,How to run encrypted Windows websites with Docker and Træfɪk,,docker
+https://github.com/StefanScherer/dockerfiles-windows,GitHub - StefanScherer/dockerfiles-windows: Various Dockerfiles for Windows,,docker
+https://adfs.world-direct.at/adfs/ls?action=signin&appRealm=8f4deb5a-c14b-e511-80c4-001dd8b71c21&client-request-id=94F5883B-C9CA-0002-4C1F-8F95CAC9D201&realm=urn%3AAppProxy%3Acom&returnUrl=https%3A%2F%2Fportal.world-direct.at%2Fproj%2Fu-z%2Fworlddirect%2Foncotnet%2Fdefault.aspx&version=1.0,Home - OncoT.net,,world-direct
+https://adfs.world-direct.at/adfs/ls?action=signin&appRealm=8f4deb5a-c14b-e511-80c4-001dd8b71c21&client-request-id=94F5883B-C9CA-0001-7F8A-A895CAC9D201&realm=urn%3AAppProxy%3Acom&returnUrl=https%3A%2F%2Fportal.world-direct.at%2Fproj%2Fu-z%2Fworlddirect%2Foncotnet%2F_layouts%2F15%2FWopiFrame.aspx%3Fsourcedoc%3D%257B002967DD-BBBE-4E79-A8C2-66F4B097DA9C%257D%26file%3DSaratiba_AIM42.xlsx%26action%3Ddefault&version=1.0,Saratiba_AIM42.xlsx,,world-direct
+https://adfs.world-direct.at/adfs/ls?action=signin&appRealm=8f4deb5a-c14b-e511-80c4-001dd8b71c21&client-request-id=94F5883B-C9CA-0001-808A-A895CAC9D201&realm=urn%3AAppProxy%3Acom&returnUrl=https%3A%2F%2Fportal.world-direct.at%2FPages%2Fdefault.aspx&version=1.0,Home,,world-direct
+https://www.auto-import.at/,Auto-Import Schopper - EU-Neuwagen in Eisenstadt,,Archive
+https://github.com/Microsoft/Virtualization-Documentation,GitHub - Microsoft/Virtualization-Documentation: Place to store our documen,,docker
+https://stackoverflow.com/questions/34863114/dockerfile-onbuild-instruction,docker - Dockerfile ONBUILD instruction - Stack Overflow,,docker
+http://flexikon.doccheck.com/de/Dubois-Formel,Dubois-Formel - DocCheck Flexikon,,onkologie
+https://at.yamaha.com/de/products/musical_instruments/winds/flugelhorns/yfh-436g/index.html,YFH-436G - Übersicht,,Fülgelhorn
+https://www.asp.net/aspnet/overview/owin-and-katana,OWIN and Katana | The ASP.NET Site,,microsoft
+http://www.eph-schmidt.de/geraetehaeuser/freiburg/109/335.209,"Gewächshäuser von EPH Schmidt & Co. GmbH, Dortmund: Gerätehäuser Freiburg 1",,Archive
+http://plantuml.com/activity-diagram-beta,New Activity Diagram Beta syntax and features,,software architektur
+http://recordersheetmusic.org/adeste-fideles-de/,Adeste Fideles - Blockflötennoten,,Blockflöte
+https://github.com/docker/distribution/blob/master/docs/spec/api.md,distribution/api.md at master · docker/distribution · GitHub,,docker
+http://www.zwave-shopping.com/en/,ZWave-Shopping.com - Germany's Z-Wave Shop No. 1 - ZWave-Shopping.com,,z-wave
+https://www.johner-institut.de/blog/iso-14971-risikomanagement/iso-31000/,ISO 31000: Risikomanagement richtig gemacht,,iso-13485
+https://www.visualstudio.com/en-us/docs/build/actions/agents/v2-windows,Deploy an agent on Windows,,microsoft
+http://www.sheetmusicplus.com,"Sheet Music Plus: Over 1,000,000 Print & Digital Sheet Music Titles",,Fülgelhorn
+https://github.com/docker/for-win/issues/750,Windows Server 2016 docker cannot create networks · Issue #750 · docker/for,,docker
+https://github.com/yquemener/HeadCounter,GitHub - yquemener/HeadCounter: This is a head counting software. Its aim i,,z-wave
+https://stackoverflow.com/questions/14653722/how-do-i-give-asp-net-permission-to-write-to-a-folder-in-windows-7,iis 7.5 - How do I give ASP.NET permission to write to a folder in Windows,,microsoft
+http://blog.terranillius.com/post/docker_testing/,Testing Strategies for Docker Containers · Terra Nullius,,docker
+https://juristr.com/blog/2012/10/output-caching-in-aspnet-mvc/,Output Caching in ASP.net MVC,,microsoft
+https://www.johner-institut.de/blog/tag/interoperabilitat/,Interoperabilität ~ semantische Interoperabilität ~ Definition & Bedeutung,,iso-13485
+http://www.trumpetexercises.net/exercisegroup:flexibility,Flexibility and lip trill exercises - Trumpet exercise database,,Fülgelhorn
+https://docs.docker.com/engine/reference/commandline/dockerd/,dockerd | Docker Documentation,,docker
+https://www.johner-institut.de/blog/iso-14971-risikomanagement/risikomanagementbericht/,Risikomanagementbericht: Die 6 häufigsten Fehler,,iso-13485
+https://stefanscherer.github.io/keep-your-windows-containers-up-to-date/,Keep your Windows Containers up to date,,docker
+https://www.johner-institut.de/blog/fda/code-review/,"Code Review | Checkliste, Tools & Guidelines",,iso-13485
+https://www.johner-institut.de/blog/iec-62304-medizinische-software/werkzeug-validierung/,Werkzeug Validierung bei der Medizinprodukte-Entwicklung,,iso-13485
+https://www.johner-institut.de/blog/iso-14971-risikomanagement/iso-24971/,ISO 24971: ISO 14971-konforme Umsetzung des Risikomanagements,,iso-13485
+http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_template_matching/py_template_matching.html,Template Matching — OpenCV-Python Tutorials 1 documentation,,z-wave
+http://de.thetimenow.com/,Was ist die Zeit | The Time Now,,tools
+http://cctvinstitute.co.uk/z-wave/,CCTV Institute | CCTV Surveillance Smart-home Home Automation Z Wave,,z-wave
+https://blogs.msdn.microsoft.com/dotnet/2016/06/27/announcing-net-core-1-0/,Announcing .NET Core 1.0 | .NET Blog,,microsoft
+https://stackoverflow.com/questions/18046236/when-should-we-use-html-helpers-razor-helpers-or-partial-views,"asp.net mvc - When should we use Html Helpers, Razor Helpers or Partial Vie",,microsoft
+https://www.noteflight.com/scores/view/ffbc275c9998341052581e63067d99b455729617,Himno de Riego,,Blockflöte
+https://mail.world-direct.at/owa/auth/logon.aspx?replaceCurrent=1&url=https%3A%2F%2Fmail.world-direct.at%2Fowa%2F,Outlook,,world-direct
+https://www.hometec.at/hersteller/fibaro/,Fibaro | walterkreisel HOMETEC,,z-wave
+https://stefanscherer.github.io/how-to-build-nodejs-nanoserver-image/,How to build a Node.js Nano Server Docker base image,,docker
+https://docs.microsoft.com/en-us/virtualization/,Virtualization on Windows,,microsoft
+https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/manage-serviceaccounts,Active Directory Service Accounts for Windows Containers | Microsoft Docs,,docker
+http://www.vogella.com/tutorials/AsciiDoc/article.html,Using AsciiDoc and Asciidoctor to write documentation - Tutorial,,software architektur
+http://bootstrap-live-customizer.com,Bootstrap Live Customizer v3.3.7,,"js, ts, html, css, electron"
+https://www.syncfusion.com/resources/techportal/ebooks,Ebooks | Resources | Syncfusion,,software architektur
+https://www.a1.net/internet-speedtest,Internet-Speedtest | A1.net,,tools
+http://online-domain-tools.com/,Online Domain Tools - Useful tools to make your life easier,,tools
+https://github.com/IdentityModel/Thinktecture.IdentityModel/blob/master/samples/OWIN/AuthenticationTansformation/KatanaAuthentication/Startup.cs,Thinktecture.IdentityModel/Startup.cs at master · IdentityModel/Thinktectur,,microsoft
+http://blog.sixeyed.comhttp://blog.sixeyed.com/published-ports-on-windows-containers-dont-do-loopback/,Published Ports On Windows Containers Don't Do Loopback | Elton Stoneman,,docker
+https://ifttt.com/search/services,See all services - IFTTT,,tools
+https://docs.microsoft.com/en-us/iis/extensions/url-rewrite-module/url-rewrite-module-20-configuration-reference,URL Rewrite Module 2.0 Configuration Reference | Microsoft Docs,,microsoft
+https://docs.microsoft.com/en-us/dotnet/standard/net-standard,.NET Standard | Microsoft Docs,,microsoft
+https://www.sslshopper.com/iis7-redirect-http-to-https.html,IIS7 Redirect HTTP to HTTPS,,microsoft
+http://www.tugberkugurlu.com/archive/logging-in-the-owin-world-with-microsoft-owin--introduction,Logging in the OWIN World with Microsoft.Owin: Introduction - Tugberk Ugurl,,microsoft
+http://www.smarthome.com/sc-what-is-zwave-home-automation,What is ZWave? | Z-Wave Home Automation Products | Z-Wave Home Control,,z-wave
+https://troolee.github.io/gridstack.js/,gridstack.js,,"js, ts, html, css, electron"
+https://www.microsoft.com/net/core,Get Started with .NET Core,,microsoft
+https://stackoverflow.com/questions/9343594/how-to-call-asynchronous-method-from-synchronous-method-in-c,async await - How to call asynchronous method from synchronous method in C#,,microsoft
+https://docs.microsoft.com/en-us/,"Technical documentation, API, and code examples | Microsoft Docs",,microsoft
+https://github.com/docker/compose/issues/4513,How to specify Memory & CPU limit in version 3 · Issue #4513 · docker/compo,,docker
+https://github.com/docker/for-win,docker/for-win,,docker
+http://www.json-generator.com,JSON Generator – Tool for generating random data,,tools
+https://balsamiq.com/index.html,"Balsamiq. Rapid, effective and fun wireframing software. | Balsamiq",,software architektur
+https://github.com/twbs/bootlint,GitHub - twbs/bootlint: HTML linter for Bootstrap projects,,"js, ts, html, css, electron"
+https://github.com/grab/front-end-guide,Grab Front End Guide,,"js, ts, html, css, electron"
+http://nvd3.org//examples,Examples - NVD3,,"js, ts, html, css, electron"
+https://sps.telekomaustria.com/CookieAuth.dll?GetLogon%3Fcurl=Z2FboxesZ2F05581Z2FSharedZ2520DocumentsZ2FFormsZ2FAllItems.aspx&formdir=24&reason=0,Microsoft Forefront TMG,,world-direct
+http://dsmorse.github.io/gridster.js/,gridster.js,,"js, ts, html, css, electron"
+https://hosted-comm-service.a1.net/Login.aspx?ReturnUrl=%2FUser%2FStart_Frameset.aspx,.: A1 Hosted Communication Service :.,,world-direct
+https://myepdevteam.slack.com/?redir=%2Fmessages%2FC4MV3QYE4%2Fdetails,general | MyEp DevTeam Slack,,world-direct
+http://www.saratiba.com/,Startseite – Saratiba,,world-direct
+http://monitoring.world-direct.at/,OVERALL STATUS,,world-direct
+https://tempr.email/,"Tempr.email - Anonyme Wegwerf-eMail-Adresse, TrashMail, Temp Mail",,tools
+https://idp.mycloud.com/idp/SSO.saml2?RelayState=a9d54ea22e050eb327bd34387dce91dc6a0e00b69e53c39deb353f7caaf1479f0089d0131a2cd0ae0ea2762f7eaf95914e22cfc5034544c971a2db267eb64386__webfilesReturnUrlToken_webfiles&SAMLRequest=lVPLauMwFN3PVwjt41cT4orYJZNSJtAhIXZn0U1R5etWYEseXTlN%2F34kOwEvOqVdCT3OueeBVjentiFHMCi1ymgcRJSAErqS6iWjD%2BXdLKU3%2BY8V8rbp2Lq3r%2BoAf3tAS9aIYKyDbbTCvgVTgDlKAQ%2BH%2B4y%2BWtshC0PeyeCtSl50IHTrd6EbERqHDz3lk5ss63dKbt2JVNwOKi5gWXVB%2By4a3VcD3O3DotgFHplQcqeNgEFSRq3pgZLtbUafYj6vr2EBPF3MefpcLaNUXEdXEPNFXFexM7jFPUeUR8hozRv0QMQetgotVzajSRQvZ9FyllyV8ZLNUxbFQTpPHynZG2210M1PqcaEeqOY5iiRKd4CMitYsf59z5IgYs%2FjI2S%2FynI%2F2%2B%2BKkpI%2Fl6QTn7TLXiEbsv2cqjvPpfm5iUGw%2BToBv5RF851xy7qT57pW4ZRx5E86dm4ZqiFgV7GFkyUb3XbcSPQO4MSFnXpIvmeCTZk3jVN4gHpC92VDnz4TTHhqd%2Bw7f9Om8h2CcM5KwxV22tgxgg%2F15OPd%2FwLJL%2BlNf0b%2BDw%3D%3D&action=&brand=webfiles,Sign In,,Unread
+https://www.medizin-transparent.at/,Medizin transparent,,gesundheit
+https://adfs.world-direct.at/adfs/ls/?wa=wsignin1.0&wauth=urn%3Aoasis%3Anames%3Atc%3ASAML%3A1.0%3Aam%3Apassword&wct=2017-08-06T12%3A50%3A03Z&wctx=rm%3D1%26id%3Df87e1817-6426-4439-928b-cfc9ced987a9%26ru%3Dhttps%253a%252f%252fworld-directebusinesssolutions.world-direct.at%252fdefault.aspx&wtrealm=https%3A%2F%2Fworld-directebusinesssolutions.world-direct.at%2F,Dashboards: _WD Verwaltung-Dashboard - Microsoft Dynamics 365,,world-direct
+https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/container-networking,Windows Container Networking | Microsoft Docs,,docker
+https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/user-guide/setup-nat-network,Set up a NAT network,,docker
+http://www.speedtest.net/apps/desktop,Speedtest for Desktop – The easiest way to take a Speedtest on Mac or Windo,,tools
+https://docs.microsoft.com/en-us/ef/,Entity Framework,,microsoft
+http://www.dotnetcurry.com/aspnet-mvc/1267/using-mongodb-nosql-database-with-aspnet-webapi-core,Using MongoDB with Web API and ASP.NET Core | DotNetCurry,,microsoft
+https://blogs.technet.microsoft.com/virtualization/2016/10/18/use-docker-compose-and-service-discovery-on-windows-to-scale-out-your-multi-service-container-application/,Use Docker Compose and Service Discovery on Windows to scale-out your multi,,docker
+https://github.com/Microsoft/Docker-PowerShell,Microsoft/Docker-PowerShell: PowerShell Module for Docker,,docker
+https://success.docker.com/Architecture/Docker_Reference_Architecture%3A_Designing_Scalable%2C_Portable_Docker_Container_Networks,"Docker Reference Architecture: Designing Scalable, Portable Docker Containe",,docker
+https://www.oanda.com/currency/converter/,Currency Converter | Foreign Exchange Rates | OANDA,,tools
+https://blog.docker.com/2016/12/understanding-docker-networking-drivers-use-cases/,Understanding Docker Networking Drivers and their use cases - Docker Blog,,docker
+https://www.virustotal.com/de/,"VirusTotal - Free Online Virus, Malware and URL Scanner",,tools
+http://www.dasblinkenlichten.com/docker-networking-101/,Das Blinken Lichten · Docker Networking 101 – The defaults,,docker
+https://github.com/Microsoft/hcsshim,hcsshim,,docker
+https://books.google.com/books/about/Mastering_Windows_Server_2016_Hyper_V.html?hl=de&id=c6-GDQAAQBAJ,Mastering Windows Server 2016 Hyper-V,,docker
+https://docs.microsoft.com/en-us/windows-server/networking/sdn/manage/connect-container-endpoints-to-a-tenant-virtual-network,Connect Containers to a Virtual Network | Microsoft Docs,,docker
+https://www.thomasmaurer.ch/2016/05/set-up-a-hyper-v-virtual-switch-using-a-nat-network/,Set up a Hyper-V Virtual Switch using a NAT Network | Thomas Maurer,,docker
+https://www.johner-institut.de/blog/iec-62304-medizinische-software/sicherheitsklassen-iec-62304/,Sicherheitsklassen gemäß IEC 62304 für medizinischer Software,,iso-13485
+http://www.edition-w3.de/TR/2001/REC-xmlschema-1-20010502/,XML Schema Teil 1: Strukturen,,xml
